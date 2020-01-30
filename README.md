@@ -1,2 +1,7 @@
-# Lanschool-killer
-Block the lanschool ports and end the lanschool processes.
+# Lanschool killer
+
+## Download
+https://github.com/lolapus/Lanschool-killer/releases
+
+## Code editing
+You can download the code and make any edits to it.
